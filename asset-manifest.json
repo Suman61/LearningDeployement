@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LearningDeployement/static/css/main.073c9b0a.css",
+    "main.js": "/LearningDeployement/static/js/main.eb5f959d.js",
+    "static/js/787.841f4c7e.chunk.js": "/LearningDeployement/static/js/787.841f4c7e.chunk.js",
+    "index.html": "/LearningDeployement/index.html",
+    "static/media/logo.svg": "/LearningDeployement/static/media/logo.0e2483ecac4272186a88fb40a824a728.svg",
+    "main.073c9b0a.css.map": "/LearningDeployement/static/css/main.073c9b0a.css.map",
+    "main.eb5f959d.js.map": "/LearningDeployement/static/js/main.eb5f959d.js.map",
+    "787.841f4c7e.chunk.js.map": "/LearningDeployement/static/js/787.841f4c7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eb5f959d.js"
+  ]
+}
